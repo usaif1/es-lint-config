@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-fuelbuddy",
+  "version": "1.0.0",
+  "description": "es-lint config for fuelbuddy front-end projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saif ullah",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.53.0",
+    "eslint-plugin-vue": "^9.18.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.11.0",
+    "@typescript-eslint/parser": "^6.11.0"
+  }
+}
