@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-fuelbuddy",
+  "name": "eslint-config-saif",
   "version": "1.0.0",
   "description": "es-lint config for fuelbuddy front-end projects",
   "main": "index.js",
